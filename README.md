@@ -1,7 +1,44 @@
 
+
 # Personal Portfolio Website
 
 This project is a personal portfolio website designed to showcase my skills, projects, and background. It features multiple pages, including Home, About, Projects, Blog, and Contact, all built with HTML5, CSS, and JavaScript. The site is fully responsive, interactive, and organized for easy navigation and a professional online presence.
+
+## 🚀 Live Demo
+
+[View the live site here](https://magwaza51.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)
+
+## 📁 Project Structure
+
+- `index.html` — Home page
+- `about.html` — About Me
+- `projects.html` — Projects
+- `blog.html` — Blog
+- `contact.html` — Contact
+- `style.css` — Main stylesheet
+- `script.js` — JavaScript for interactivity
+- `images/` — Project images and profile photo
+
+## ✨ Features
+
+- Responsive design for mobile, tablet, and desktop
+- Semantic HTML5 structure
+- Consistent header and footer across all pages
+- Interactive elements (buttons, navigation, form)
+- Clean, organized, and commented code
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3 (with media queries for responsiveness)
+- JavaScript (ES6)
+
+## 📚 How to Use
+
+1. Clone or download this repository
+2. Open `index.html` in your browser, or visit the [live demo](https://magwaza51.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)
+
+---
 
 # 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
 
