@@ -1,3 +1,8 @@
+
+# Personal Portfolio Website
+
+This project is a personal portfolio website designed to showcase my skills, projects, and background. It features multiple pages, including Home, About, Projects, Blog, and Contact, all built with HTML5, CSS, and JavaScript. The site is fully responsive, interactive, and organized for easy navigation and a professional online presence.
+
 # 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
 
 You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
