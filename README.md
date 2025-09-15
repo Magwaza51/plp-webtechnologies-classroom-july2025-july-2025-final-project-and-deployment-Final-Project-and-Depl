@@ -1,23 +1,39 @@
+# CarTraderSA — Final Assignment Submission
 
+This repository contains my final assignment for the PLP Web Technologies course: a car marketplace website . It demonstrates all required skills: planning, building, organizing, and deploying a responsive, interactive multipage site for car listings and contact.
 
-# Personal Portfolio Website
+## ✅ Assignment Requirements Checklist
 
-This project is a personal portfolio website designed to showcase my skills, projects, and background. It features multiple pages, including Home, About, Projects, Blog, and Contact, all built with HTML5, CSS, and JavaScript. The site is fully responsive, interactive, and organized for easy navigation and a professional online presence.
+- [X] **Purpose & Planning:** Car marketplace site (CarTraderSA) with Home, Listings, About, and Contact pages. Navigation is clear and consistent.
+- [X] **Multipage Structure:** 4+ pages, each with a unique layout and content (car cards, about, contact form).
+- [X] **Responsive Design:** Mobile, tablet, and desktop friendly (CSS media queries).
+- [X] **Consistent Layout:** Shared header and footer on all pages.
+- [X] **Interactivity:** Contact form, navigation, and interactive elements.
+- [X] **Modern Contact Page:** Clean, centered, full-width fields, blue submit button, and social icons (see Contact page).
+- [X] **Organized Codebase:** `/css`, `/js`, `/images` folders, semantic HTML, modular CSS, and clear file names.
+- [X] **Deployment:** Live on GitHub Pages ([see here](https://magwaza51.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)).
+
+This project is a car marketplace website (CarTraderSA) . It features multiple pages, including Home, Listings, About, and Contact, all built with HTML5, CSS, and JavaScript. The site is fully responsive, interactive, and organized for easy navigation and a professional online presence for car buyers and sellers.
+
+## � Car Listings & Contact Page
+
+- The Listings page displays car cards with images, prices, and details in a modern grid layout.
+- The Contact page features a clean, modern, and centered form with full-width input fields, a wide blue submit button, and clear labels above each field. Social/contact icons are centered below the form for easy access.
 
 ## 🚀 Live Demo
 
 [View the live site here](https://magwaza51.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)
 
+
 ## 📁 Project Structure
 
 - `index.html` — Home page
-- `about.html` — About Me
-- `projects.html` — Projects
-- `blog.html` — Blog
-- `contact.html` — Contact
-- `style.css` — Main stylesheet
-- `script.js` — JavaScript for interactivity
-- `images/` — Project images and profile photo
+- `listings.html` — Car Listings page
+- `about.html` — About CarTraderSA
+- `contact.html` — Contact page
+- `css/style.css` — Main stylesheet
+- `js/script.js` — JavaScript for interactivity
+- `images/` — Car images (car1.jpg, car2.jpg, car3.jpg, car4.jpg, car5.jpg, car6.jpg)
 
 ## ✨ Features
 
